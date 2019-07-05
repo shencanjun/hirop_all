@@ -1,0 +1,8 @@
+generatorName:
+  hsr_generator
+PickPlacerName:
+  hsr_pickplace
+GeneratorPath:
+  /home/fshs/catkin_ws/src/hirop_pickandplace/generation_libs/
+PickpalcerPath:
+  /home/fshs/catkin_ws/devel/lib/
